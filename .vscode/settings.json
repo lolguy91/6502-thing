@@ -1,0 +1,12 @@
+{
+    "makefile.alwaysPreConfigure": true,
+    "makefile.loggingLevel": "Debug",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.ipp": "cpp",
+        "atomic": "cpp",
+        "iostream": "cpp",
+        "filesystem": "cpp",
+        "string": "cpp"
+    }
+}
